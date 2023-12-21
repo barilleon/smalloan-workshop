@@ -3,6 +3,7 @@ We should add a few lines of code
 Actually, we need four lines.
 So you get the idea??
 This is line five!
+This is code.
 Whis is Chrome's daddy?!
 Test Line!
 
