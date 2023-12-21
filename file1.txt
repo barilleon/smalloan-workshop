@@ -1,7 +1,12 @@
 Hello! This is a file on the repository
 We should add a few lines of code
 Actually, we need four lines.
+<<<<<<< HEAD
 So you get the idea??
 This is line five!
 Whis is Chrome's daddy?!
 
+=======
+Test Line!
+So you get the idea??
+>>>>>>> tiago-branch
