@@ -1,20 +1,15 @@
 Hello! This is a file on the repository
 We should add a few lines of code
 Actually, we need four lines.
-<<<<<<< HEAD
 So you get the idea??
 This is line five!
 Whis is Chrome's daddy?!
-
-<<<<<<< HEAD
-=======
 Test Line!
-So you get the idea??
->>>>>>> tiago-branch
-=======
+
 I made a meme 
 
 
 Ahh... some peace and qui-*foghorn*
 Naj, thanks for the sublime rec!
->>>>>>> 7cd3774ca3546e31e8edf52a26a80bd988404333
+ok i downloaded sublime
+Hello there, Kyle.
